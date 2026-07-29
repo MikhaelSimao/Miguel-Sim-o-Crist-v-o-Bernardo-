@@ -1,0 +1,6 @@
+{
+  "name": "AlertaInundação Bengo - Mubungo",
+  "description": "Sistema de monitoramento e alerta de inundações no Bairro Mubungo (Província do Bengo) com integração de sensores ESP32/Arduino, mapas interativos, boletins e suporte multilíngua (Português/Kimbundo).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
